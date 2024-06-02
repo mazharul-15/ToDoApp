@@ -4,6 +4,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="primary_color">#107067</color>
     <color name="font_color">#2B3033</color>
+    <color name="font_altr">#F6FAFD</color>
     <color name="background_color">#F6FAFD</color>
     <color name="edit_color">#107067</color>
     <color name="delete_color">#AB342B</color>
